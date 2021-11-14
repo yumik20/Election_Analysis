@@ -36,5 +36,35 @@ Winning Percentage: 3.1%
 
 ## Challenge Overview 
 
+## Challenge Summary 
+[Election Results](https://github.com/yumik20/Election_Analysis/blob/main/analysis/election_results.txt)
 
-## Challege Summary 
+#Overview of the Election Audit
+The election commission has requested some additional data to complete the audit:
+
+-The voter turnout for each county
+-The percentage of votes from each county out of the total count
+-The county with the highest turnout
+
+#Election Audit Results 
+
+*How many votes were cast in this congressional election?
+Total Votes: 369,711
+
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+
+*Which county had the largest number of votes?
+Largest County Turnout: Denver
+
+*Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+
+Other candidates: 
+Charles Casper Stockham: 23.0% (85,213)
+Raymon Anthony Doane: 3.1% (11,606)
